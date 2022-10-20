@@ -4,7 +4,7 @@ Hi 👋 My name is Hariom Sinha
 Frontend Developer And UX Designer
 ----------------------------------
 
-I am a Frontend Developer with 3 years of experience in developing robust end-to-end web applications with fluid user experience. My expertise is in React Js, Angular, Html, CSS, JavaScript, D3 Js, Chart Js, and React Native. I am also experienced in UX Designing using Adobe Xd and Figma.
+I am a Frontend Developer with 3+ years of experience in developing robust end-to-end web applications with fluid user experience. My expertise is in React Js, Angular, Html, CSS, JavaScript, D3 Js, Chart Js, and React Native. I am also experienced in UX Designing using Adobe Xd and Figma.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://www.hariomsinha.in)
